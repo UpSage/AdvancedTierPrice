@@ -1,3 +1,3 @@
 # AdvancedTierPrice
 
-Test
+Tests
